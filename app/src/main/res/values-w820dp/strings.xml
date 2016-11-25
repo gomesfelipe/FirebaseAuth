@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="pre_o">Preço</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="nome_do_cliente">Nome do Cliente</string>
+</resources>

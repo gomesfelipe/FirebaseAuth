@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\laptop\\AndroidStudioProjects\\FirebaseAuth\\app\\libs\\library\\dynamicgrid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\laptop\\.android\\build-cache\\294cbcc77ddf47d9a915a5eadf40554aaa18dd54\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]
